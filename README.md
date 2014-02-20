@@ -1,5 +1,3 @@
 Enviromentt:
-Ubuntu precise65
-MySQL Client and Server
-PHP5
+Ubuntu precise64   MySQL Client and Server  PHP5
 
